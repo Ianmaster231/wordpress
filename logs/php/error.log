@@ -1,3 +1,58 @@
 [18-Nov-2022 11:36:12 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in C:\Users\User\Local Sites\ianwebsite\app\public\wp-content\themes\Ian-Theme\index.php on line 6
 [18-Nov-2022 11:36:13 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in C:\Users\User\Local Sites\ianwebsite\app\public\wp-content\themes\Ian-Theme\index.php on line 6
 [18-Nov-2022 11:36:14 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in C:\Users\User\Local Sites\ianwebsite\app\public\wp-content\themes\Ian-Theme\index.php on line 6
+[18-Nov-2022 12:23:53 UTC] PHP Warning:  Array to string conversion in C:\Users\User\Local Sites\ianwebsite\app\public\wp-content\themes\Ian-Theme\index.php on line 12
+[18-Nov-2022 12:23:53 UTC] PHP Stack trace:
+[18-Nov-2022 12:23:53 UTC] PHP   1. {main}() C:\Users\User\Local Sites\ianwebsite\app\public\index.php:0
+[18-Nov-2022 12:23:53 UTC] PHP   2. require() C:\Users\User\Local Sites\ianwebsite\app\public\index.php:17
+[18-Nov-2022 12:23:53 UTC] PHP   3. require_once() C:\Users\User\Local Sites\ianwebsite\app\public\wp-blog-header.php:19
+[18-Nov-2022 12:23:53 UTC] PHP   4. include() C:\Users\User\Local Sites\ianwebsite\app\public\wp-includes\template-loader.php:106
+[18-Nov-2022 12:24:11 UTC] PHP Warning:  Array to string conversion in C:\Users\User\Local Sites\ianwebsite\app\public\wp-content\themes\Ian-Theme\index.php on line 12
+[18-Nov-2022 12:24:11 UTC] PHP Stack trace:
+[18-Nov-2022 12:24:11 UTC] PHP   1. {main}() C:\Users\User\Local Sites\ianwebsite\app\public\index.php:0
+[18-Nov-2022 12:24:11 UTC] PHP   2. require() C:\Users\User\Local Sites\ianwebsite\app\public\index.php:17
+[18-Nov-2022 12:24:11 UTC] PHP   3. require_once() C:\Users\User\Local Sites\ianwebsite\app\public\wp-blog-header.php:19
+[18-Nov-2022 12:24:11 UTC] PHP   4. include() C:\Users\User\Local Sites\ianwebsite\app\public\wp-includes\template-loader.php:106
+[18-Nov-2022 12:25:45 UTC] PHP Warning:  Array to string conversion in C:\Users\User\Local Sites\ianwebsite\app\public\wp-content\themes\Ian-Theme\index.php on line 12
+[18-Nov-2022 12:25:45 UTC] PHP Stack trace:
+[18-Nov-2022 12:25:45 UTC] PHP   1. {main}() C:\Users\User\Local Sites\ianwebsite\app\public\index.php:0
+[18-Nov-2022 12:25:45 UTC] PHP   2. require() C:\Users\User\Local Sites\ianwebsite\app\public\index.php:17
+[18-Nov-2022 12:25:45 UTC] PHP   3. require_once() C:\Users\User\Local Sites\ianwebsite\app\public\wp-blog-header.php:19
+[18-Nov-2022 12:25:45 UTC] PHP   4. include() C:\Users\User\Local Sites\ianwebsite\app\public\wp-includes\template-loader.php:106
+[18-Nov-2022 12:26:09 UTC] PHP Warning:  Array to string conversion in C:\Users\User\Local Sites\ianwebsite\app\public\wp-content\themes\Ian-Theme\index.php on line 12
+[18-Nov-2022 12:26:09 UTC] PHP Stack trace:
+[18-Nov-2022 12:26:09 UTC] PHP   1. {main}() C:\Users\User\Local Sites\ianwebsite\app\public\index.php:0
+[18-Nov-2022 12:26:09 UTC] PHP   2. require() C:\Users\User\Local Sites\ianwebsite\app\public\index.php:17
+[18-Nov-2022 12:26:09 UTC] PHP   3. require_once() C:\Users\User\Local Sites\ianwebsite\app\public\wp-blog-header.php:19
+[18-Nov-2022 12:26:09 UTC] PHP   4. include() C:\Users\User\Local Sites\ianwebsite\app\public\wp-includes\template-loader.php:106
+[18-Nov-2022 12:26:41 UTC] PHP Warning:  Array to string conversion in C:\Users\User\Local Sites\ianwebsite\app\public\wp-content\themes\Ian-Theme\index.php on line 12
+[18-Nov-2022 12:26:41 UTC] PHP Stack trace:
+[18-Nov-2022 12:26:41 UTC] PHP   1. {main}() C:\Users\User\Local Sites\ianwebsite\app\public\index.php:0
+[18-Nov-2022 12:26:41 UTC] PHP   2. require() C:\Users\User\Local Sites\ianwebsite\app\public\index.php:17
+[18-Nov-2022 12:26:41 UTC] PHP   3. require_once() C:\Users\User\Local Sites\ianwebsite\app\public\wp-blog-header.php:19
+[18-Nov-2022 12:26:41 UTC] PHP   4. include() C:\Users\User\Local Sites\ianwebsite\app\public\wp-includes\template-loader.php:106
+[18-Nov-2022 12:28:24 UTC] PHP Warning:  Array to string conversion in C:\Users\User\Local Sites\ianwebsite\app\public\wp-content\themes\Ian-Theme\index.php on line 12
+[18-Nov-2022 12:28:24 UTC] PHP Stack trace:
+[18-Nov-2022 12:28:24 UTC] PHP   1. {main}() C:\Users\User\Local Sites\ianwebsite\app\public\index.php:0
+[18-Nov-2022 12:28:24 UTC] PHP   2. require() C:\Users\User\Local Sites\ianwebsite\app\public\index.php:17
+[18-Nov-2022 12:28:24 UTC] PHP   3. require_once() C:\Users\User\Local Sites\ianwebsite\app\public\wp-blog-header.php:19
+[18-Nov-2022 12:28:24 UTC] PHP   4. include() C:\Users\User\Local Sites\ianwebsite\app\public\wp-includes\template-loader.php:106
+[18-Nov-2022 12:28:25 UTC] PHP Warning:  Array to string conversion in C:\Users\User\Local Sites\ianwebsite\app\public\wp-content\themes\Ian-Theme\index.php on line 12
+[18-Nov-2022 12:28:25 UTC] PHP Stack trace:
+[18-Nov-2022 12:28:25 UTC] PHP   1. {main}() C:\Users\User\Local Sites\ianwebsite\app\public\index.php:0
+[18-Nov-2022 12:28:25 UTC] PHP   2. require() C:\Users\User\Local Sites\ianwebsite\app\public\index.php:17
+[18-Nov-2022 12:28:25 UTC] PHP   3. require_once() C:\Users\User\Local Sites\ianwebsite\app\public\wp-blog-header.php:19
+[18-Nov-2022 12:28:25 UTC] PHP   4. include() C:\Users\User\Local Sites\ianwebsite\app\public\wp-includes\template-loader.php:106
+[18-Nov-2022 12:51:01 UTC] PHP Warning:  Array to string conversion in C:\Users\User\Local Sites\ianwebsite\app\public\wp-content\themes\Ian-Theme\index.php on line 12
+[18-Nov-2022 12:51:01 UTC] PHP Stack trace:
+[18-Nov-2022 12:51:01 UTC] PHP   1. {main}() C:\Users\User\Local Sites\ianwebsite\app\public\index.php:0
+[18-Nov-2022 12:51:01 UTC] PHP   2. require() C:\Users\User\Local Sites\ianwebsite\app\public\index.php:17
+[18-Nov-2022 12:51:01 UTC] PHP   3. require_once() C:\Users\User\Local Sites\ianwebsite\app\public\wp-blog-header.php:19
+[18-Nov-2022 12:51:01 UTC] PHP   4. include() C:\Users\User\Local Sites\ianwebsite\app\public\wp-includes\template-loader.php:106
+[18-Nov-2022 12:54:49 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "the_title" in C:\Users\User\Local Sites\ianwebsite\app\public\wp-content\themes\Ian-Theme\index.php:4
+Stack trace:
+#0 C:\Users\User\Local Sites\ianwebsite\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\User\Local Sites\ianwebsite\app\public\wp-blog-header.php(19): require_once('C:\\Users\\User\\L...')
+#2 C:\Users\User\Local Sites\ianwebsite\app\public\index.php(17): require('C:\\Users\\User\\L...')
+#3 {main}
+  thrown in C:\Users\User\Local Sites\ianwebsite\app\public\wp-content\themes\Ian-Theme\index.php on line 4
